@@ -109,6 +109,9 @@ ol > li::marker {
 img {
     max-width: 100%;
 }
+video {
+    max-width: 100%;
+}
 .hero-image {
     background-image: url("../images/hero.jpeg");
     background-position: center;
