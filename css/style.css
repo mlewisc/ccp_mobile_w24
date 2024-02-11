@@ -136,7 +136,7 @@ ol > li::marker {
 
 .hero-travel {
     background-image: url("../images/travel-hero.jpeg");
-    box-shadow: inset 0 0 0 1000px rgba(0,0,0,.9);
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,.7);
 }
 
 .preheading {
