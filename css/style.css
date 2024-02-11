@@ -350,6 +350,9 @@ footer {
     margin-inline: 5%;
 }
 
+.horizontal-card img {
+    max-width: 100%;
+}
 
 .description {
     display: flex;
