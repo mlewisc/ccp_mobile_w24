@@ -284,6 +284,9 @@ nav ul a.active {
     justify-items: center;
     align-content: space-evenly;
 }
+.grid-gallery img {
+    max-width: 100%;
+}
 
 .dark-section {
     background-color: #2E2E2E;
