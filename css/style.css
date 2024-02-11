@@ -164,6 +164,9 @@ button {
     justify-content: center;
     padding-bottom: 18%;
 }
+button a {
+    color: white;
+}
 
 .filter-div {
     width: 100%;
