@@ -380,3 +380,9 @@ footer {
     grid-gap: 10px;
     margin-bottom: 2%;
 }
+
+@media (prefers-reduced-motion: reduce) {
+    .remove-gif {
+        width: 0px;
+    }
+}
