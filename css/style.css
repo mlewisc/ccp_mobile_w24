@@ -261,6 +261,7 @@ nav ul a.active {
     border-top-right-radius: 10%;
     border-top-left-radius: 10%;
     height: 70%;
+    max-width: 100%;
 }
 .small-card p {
     text-align: center;
